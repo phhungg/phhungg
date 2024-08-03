@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?q=%E1%BA%A3nh%20flutter&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F17%2FGoogle-flutter-logo.png%2F799px-Google-flutter-logo.png&imgrefurl=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3AGoogle-flutter-logo.png&docid=obbH3_ZHH4iOpM&tbnid=6wcAxSn7Geja0M&vet=12ahUKEwic_rmgsdiHAxUGTWwGHc42LV0QM3oECE4QAA..i&w=799&h=228&hcb=2&ved=2ahUKEwic_rmgsdiHAxUGTWwGHc42LV0QM3oECE4QAA" width="36" height="36" alt="Flutter" /></a>
+<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://static.topcv.vn/cms/flutter-la-gi-topcv.jpg64d9f6df81343.jpg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 ### Socials
