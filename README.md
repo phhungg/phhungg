@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://static.topcv.vn/cms/flutter-la-gi-topcv.jpg64d9f6df81343.jpg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="[https://static.topcv.vn/cms/flutter-la-gi-topcv.jpg64d9f6df81343.jpg](https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png)" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 ### Socials
