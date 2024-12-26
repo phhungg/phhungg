@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoàng Phi Hùng</h1>
-<h3 align="center">Vị trí ứng tuyển Software Website Developer, Em hiện là sinh viên tại trường Đại học Nguyễn Tất Thành và em muốn ứng tuyển nhằm mục đich học hỏi thêm kinh nghiệm</h3>
+<h3 align="center">Vị trí ứng tuyển Software Website Developer, Em hiện là sinh viên tại trường Đại học Nguyễn Tất Thành và em muốn ứng tuyển nhằm mục đich học hỏi thêm kinh nghiệm và phát triển bản thân mình hơn</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phhungg" alt="phhungg" /></a> </p>
 
