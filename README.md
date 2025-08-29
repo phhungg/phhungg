@@ -30,6 +30,19 @@
 
 ### 💻 Kỹ năng & Công cụ  
 
+#### Kỹ năng chuyên môn  
+- **Flutter & Dart**: Thiết kế UI, quản lý state với **Bloc Pattern**.  
+- **Firebase**: Authentication, Firestore Database, Cloud Storage.  
+- **Backend**: Node.js (REST API).  
+- **Database**: PostgreSQL.  
+- **Version Control**: Git/GitHub.  
+
+#### Kỹ năng mềm  
+- **Quản lý thời gian**: Lập kế hoạch, phân bổ thời gian hợp lý để hoàn thành công việc đúng hạn.  
+- **Làm chủ công việc**: Chủ động tìm tòi giải pháp, tinh thần trách nhiệm cao.  
+- **Giải quyết vấn đề**: Phân tích yêu cầu, tìm nguyên nhân và đưa ra giải pháp tối ưu.  
+- **Tiếng Anh**: Đọc hiểu tài liệu kỹ thuật, giao tiếp cơ bản trong môi trường làm việc.  
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
@@ -44,6 +57,6 @@
 
 - 📧 **Email:** [hoangphihungbd@gmail.com](mailto:hoangphihungbd@gmail.com)  
 - 📱 **Số điện thoại:** 0362185293  
-- 💼 **LinkedIn/GitHub:** https://www.linkedin.com/feed/  
+- 💼 **LinkedIn/GitHub:** [LinkedIn](https://www.linkedin.com/feed/)  
 
 ---
