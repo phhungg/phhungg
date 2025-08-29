@@ -7,4 +7,4 @@
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a><img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="40" height="40"/> </a> </p>
