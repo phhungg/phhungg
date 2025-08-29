@@ -1,15 +1,30 @@
 <h1 align="center">Hi 👋, I'm Hoàng Phi Hùng</h1>
-<h3 align="center">Vị trí ứng tuyển Flutter Developer, Em hiện là sinh viên tại trường Đại học Nguyễn Tất Thành </h3>
-<h5 align="center">Mục tiêu ngắn hạn của tôi là nắm vững Flutter và Dart, làm quen với quy trình phát triển Agile/Scrum, và đóng góp tích cực vào các dự án.</h5>
-<h5 align="center">Mục tiêu dài hạn là trở thành một lập trình viên Flutter chính thức, có khả năng đảm nhận các nhiệm vụ phức tạp, và hướng tới vị trí Technical Lead bằng cách tham gia thiết kế kiến trúc hệ thống và mentoring các thành viên mới, luôn cập nhật các công nghệ mới nhất để nâng cao hiệu suất làm việc.</h5>
-<p align="left"></p>
-<h3 align="left">Connect with me: hoangphihungbd@gmail.com / SDT: 0362185293</h3>
+<h3 align="center">Flutter Developer Intern | Nguyễn Tất Thành University Student</h3>
+
+<br>
+
+---
+
+### 🎯 Mục tiêu nghề nghiệp
+
+**Ngắn hạn:** Nắm vững **Flutter và Dart**, làm quen với quy trình phát triển **Agile/Scrum** và đóng góp tích cực vào các dự án.
+
+**Dài hạn:** Trở thành một **lập trình viên Flutter** chính thức, có khả năng đảm nhận các nhiệm vụ phức tạp, và hướng tới vị trí **Technical Lead** bằng cách tham gia thiết kế kiến trúc hệ thống, mentoring các thành viên mới, và luôn cập nhật công nghệ để nâng cao hiệu suất làm việc.
+
+---
+
+### 💬 Kết nối với tôi
+
+- **Email:** hoangphihungbd@gmail.com
+- **Số điện thoại:** 0362185293
+
+---
+
+### 💻 Ngôn ngữ & Công cụ
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin-right: 20px;"/>
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40" height="40" style="margin-right: 20px;"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="margin-right: 20px;"/>
-</a>
-<img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="40" height="40" style="margin-right: 20px;"/>
-</p>
+
+---
