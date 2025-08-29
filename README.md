@@ -44,6 +44,6 @@
 
 - 📧 **Email:** [hoangphihungbd@gmail.com](mailto:hoangphihungbd@gmail.com)  
 - 📱 **Số điện thoại:** 0362185293  
-- 💼 **LinkedIn/GitHub:** (bạn có thể thêm link vào đây nếu có)  
+- 💼 **LinkedIn/GitHub:** https://www.linkedin.com/feed/  
 
 ---
