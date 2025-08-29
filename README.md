@@ -1,31 +1,49 @@
 <h1 align="center">Hi 👋, I'm Hoàng Phi Hùng</h1>
 <h3 align="center">Flutter Developer Intern | Nguyễn Tất Thành University Student</h3>
 
-<br>
+---
+
+### 🎯 Mục tiêu nghề nghiệp  
+
+**Ngắn hạn:**  
+- Nắm vững **Flutter và Dart**.  
+- Làm quen với quy trình phát triển **Agile/Scrum**.  
+- Đóng góp vào các dự án thực tế (bug fixes, feature nhỏ).  
+
+**Dài hạn:**  
+- Trở thành **lập trình viên Flutter** chính thức, có khả năng đảm nhận các module phức tạp.  
+- Hướng tới vị trí **Senior Flutter Developer / Technical Lead**: thiết kế kiến trúc hệ thống, mentoring và cập nhật công nghệ mới.  
 
 ---
 
-### 🎯 Mục tiêu nghề nghiệp
+### 📂 Dự án tiêu biểu  
 
-**Ngắn hạn:** Nắm vững **Flutter và Dart**, làm quen với quy trình phát triển **Agile/Scrum** và đóng góp tích cực vào các dự án.
+- 📱 **Ứng dụng mua sắm trực tuyến**  
+  - Công nghệ: Flutter, Firebase  
+  - Chức năng: Đặt hàng, giỏ hàng, thanh toán, quản lý đơn hàng.  
 
-**Dài hạn:** Trở thành một **lập trình viên Flutter** chính thức, có khả năng đảm nhận các nhiệm vụ phức tạp, và hướng tới vị trí **Technical Lead** bằng cách tham gia thiết kế kiến trúc hệ thống, mentoring các thành viên mới, và luôn cập nhật công nghệ để nâng cao hiệu suất làm việc.
-
----
-
-### 💬 Kết nối với tôi
-
-- **Email:** hoangphihungbd@gmail.com
-- **Số điện thoại:** 0362185293
+- 📚 **Ứng dụng học tập cho trẻ em**  
+  - Công nghệ: Flutter (frontend), Node.js (backend), PostgreSQL (database)  
+  - Chức năng: Bài học, quiz, theo dõi tiến độ học tập.  
 
 ---
 
-### 💻 Ngôn ngữ & Công cụ
+### 💻 Kỹ năng & Công cụ  
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin-right: 10%;"/>
-  <img src="https://e7.pngegg.com/pngimages/678/747/png-clipart-dart-logo-thumbnail-tech-companies.png" alt="Dart" width="40" height="40" style="margin-right: 10%;"/>
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40" height="40" style="margin-right: 10%;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
+
+---
+
+### 💬 Liên hệ với tôi  
+
+- 📧 **Email:** [hoangphihungbd@gmail.com](mailto:hoangphihungbd@gmail.com)  
+- 📱 **Số điện thoại:** 0362185293  
+- 💼 **LinkedIn/GitHub:** (bạn có thể thêm link vào đây nếu có)  
 
 ---
